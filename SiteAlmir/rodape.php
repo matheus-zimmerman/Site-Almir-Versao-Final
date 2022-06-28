@@ -1,0 +1,1 @@
+<p class="direitos">&copy; Marcos Adriano Zimermam da Silva / Matheus dos Santos Zimmerman 2 - BCC</p>
